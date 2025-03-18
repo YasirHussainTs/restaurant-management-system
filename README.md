@@ -36,5 +36,5 @@ Ensure you have the following installed:
 - **PostgreSQL**
 
 ## License
- Apache-2.0 License © 2025 ShaayWaMaaza
+MIT License © 2025 ShaayWaMaaza
 
